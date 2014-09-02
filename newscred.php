@@ -1,9 +1,9 @@
 <?php
 /*
 Plugin Name: NewsCred CMC
-Description: NewsCred users can supercharge their CMC experience with this simple plugin!
+Description: Supercharge your NewsCred CMC experience with this plugin
 Version: 0.0.3
-Author: Matthew Isabel
+Author: Matthew Isabel, Raju Hossain
 Author URI: http://www.newscred.com
 */
 
