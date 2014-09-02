@@ -9,7 +9,7 @@ Supercharge your NewsCred CMC experience with this plugin.
 
 == Description ==
 
-Note: You must be customer of NewsCred for meaningful use this plugin.
+Note: You must be customer of NewsCred for meaningful use of this plugin.
 
 Content Marketing Cloud (CMC) is all-in-one software to simplify and scale the entire content marketing process.
 If you are a NewsCred CMC customer, use this plugin to automate publishing into WordPress directly from CMC platform.
