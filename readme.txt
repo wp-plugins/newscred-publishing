@@ -2,7 +2,7 @@
 Contributors: rajuru
 Tags: newscred, cmc, content, publishing, marketing, enterprise
 Requires at least: 3.5
-Tested up to: 3.9.2
+Tested up to: 4.0
 Stable tag: trunk
 
 Supercharge your NewsCred CMC experience with this plugin.
