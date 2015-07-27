@@ -9,7 +9,7 @@ require_once(YOAST_BASE . '/admin/class-admin.php');
 require_once(YOAST_BASE . '/inc/class-wpseo-meta.php');
 require_once(YOAST_BASE . '/inc/wpseo-functions.php');
 require_once(YOAST_BASE . '/inc/wpseo-non-ajax-functions.php');
-require_once(YOAST_BASE . '/inc/class-wpseo-options.php');
+require_once(YOAST_BASE . '/inc/options/class-wpseo-options.php');
 require_once(YOAST_BASE . '/admin/class-metabox.php');
 
 
