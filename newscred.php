@@ -2,7 +2,7 @@
 /*
 Plugin Name: NewsCred CMC
 Description: Supercharge your NewsCred CMC experience with this plugin
-Version: 0.0.6
+Version: 0.0.7
 Author: Matthew Isabel, Raju Hossain, Riyadh Al Nur
 Author URI: http://www.newscred.com
 */

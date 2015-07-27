@@ -4,8 +4,9 @@ if(!function_exists('get_plugins')) {
 }
 
 if(!defined('WPSEO_VERSION')) {
-    $seo_plugin = get_plugins()['wordpress-seo/wp-seo.php'];
-    define('WPSEO_VERSION', $seo_plugin['Version']);
+    $all_plugins = get_plugins();
+    $seo_plugin = $all_plugins["wordpress-seo/wp-seo.php"];
+    define('WPSEO_VERSION', $seo_plugin["Version"]);
 }
 
 define('YOAST_BASE', dirname(plugin_dir_path(__FILE__)) . '/wordpress-seo/');
