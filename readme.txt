@@ -1,5 +1,5 @@
 === NewsCred CMC ===
-Contributors: rajuru
+Contributors: rajuru, matthewisabel, riyadhalnur
 Tags: newscred, cmc, content, publishing, marketing, enterprise
 Requires at least: 3.5
 Tested up to: 4.1.2
